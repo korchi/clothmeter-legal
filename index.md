@@ -4,6 +4,7 @@ title: ClothMeter
 
 # ClothMeter
 
-Legal information for the ClothMeter iPhone app.
+Information for the ClothMeter iPhone app.
 
+- [Support](support)
 - [Privacy Policy](privacy-policy)
